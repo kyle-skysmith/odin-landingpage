@@ -1,0 +1,1 @@
+This project is a Landing Page. I will use Flex in order to organize all of the content. This project is from The Odin Project.
